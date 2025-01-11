@@ -1,1 +1,8 @@
+NSObject
+   └── UIResponder
+         └── UIView
+
+UIView is a subclass of the UIResponder class, which in turn is a subclass of NSObject.
+
+
 
